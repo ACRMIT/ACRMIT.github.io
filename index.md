@@ -10,7 +10,7 @@ A student email S3558983@student.rmit.edu.au,
 A little bit about me is that I speak two languages English and Turkish at home, that I work in the security industry, and develop games in my free time(currently working on a roguelike called Elich).  
 I love experimenting with C# and Unity Engine!
 
-<img src="/Images/Me.jpg" class="img-responsive" alt="" style="max-width: 45%;">
+<img src="/Images/Me.jpg" class="img-responsive" alt="" style="max-width: 65%;">
 
 ## Interest in IT -
 My interest in IT is to develop an application that will provide a smile to the user's face, my interest in IT started when my father introduced me to a game called Diablo 2 when I was age 5, ever since I was hooked on using IT to just about do everything but mainly using it for its automated capabilities. I learned how to make use of macros, program applications, and automate calculations.  
