@@ -1,6 +1,6 @@
 # My Profile!
 Welcome to my profile, here you will learn a bit about who I am, why I'm interested in IT, what type of job I would like, see a few test results, and my chosen project idea.
-## Personal Information
+## Personal Information -
 > The internet can be a place that harms a user more than it can benefit them.
 
 My Name is Abdul-Kadir Coskun,  
@@ -11,11 +11,11 @@ I love experimenting with C# and Unity Engine!
 
 <img src="/Images/Me.jpg" class="img-responsive" alt="" style="max-width: 45%;">
 
-## Interest in IT
+## Interest in IT -
 
-## Ideal Job
+## Ideal Job -
 
-## Personal Profile (Test Results)
+## Personal Profile (Test Results) -
 
-## Project Idea
+## Project Idea -
 
