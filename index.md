@@ -20,6 +20,10 @@ I chose RMIT mainly for the brand as it's a globally recognized university that'
 I expect to learn a plethora of additional skills such as new code languages, better essay writing, and gain information that will help build my foundational knowledge in IT. I have spent quite a bit of time using IT and, in that time, I believe that I have neglected many aspects of IT that will be of great benefit to me.  
 
 ## Ideal Job -
+<img src="/Images/Job.png" class="img-responsive" alt="" style="max-width: 60%;">
+
+[[Link]](https://www.seek.com.au/job/53842743?type=standard#searchRequestToken=5e149590-eb23-42ea-b6e6-24635a12b2bd)
+[[Snapshot]](/Images/Snapshot.png)
 
 ## Personal Profile (Test Results) -
 
