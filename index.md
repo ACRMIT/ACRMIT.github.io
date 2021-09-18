@@ -1,12 +1,12 @@
-# Welcome To My Profile!
+# My Profile!
 
-##Personal Information
+## Personal Information
 
-##Interest in IT
+## Interest in IT
 
-##Ideal Job
+## Ideal Job
 
-##Personal Profile
+## Personal Profile
 
-##Project Idea
+## Project Idea
 
