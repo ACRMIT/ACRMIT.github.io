@@ -17,13 +17,26 @@ My interest in IT is to develop an application that will provide a smile to the 
 
 I chose RMIT mainly for the brand as it's a globally recognized university that's renowned for its leadership and innovation in technology, design, and enterprise. I found that students that have attended RMIT speak nothing but praises for it.  
 
-I expect to learn a plethora of additional skills such as new code languages, better essay writing, and gain information that will help build my foundational knowledge in IT. I have spent quite a bit of time using IT and, in that time, I believe that I have neglected many aspects of IT that will be of great benefit to me.  
+I expect to learn a plethora of additional skills such as new code languages, better essay writing, and gain information that will help build my foundational knowledge in IT. I have spent quite a bit of time using IT and, in that time, I believe that I have neglected many aspects of IT that will be of great benefit to me. 
 
 ## Ideal Job -
 <img src="/Images/Job.png" class="img-responsive" alt="" style="max-width: 100%;">
 
 [[Link]](https://www.seek.com.au/job/53842743?type=standard#searchRequestToken=5e149590-eb23-42ea-b6e6-24635a12b2bd)
-[[Snapshot]](/Images/Snapshot.png)
+[[Snapshot]](/Images/Snapshot.png)  
+  
+This position is looking for someone that is both senior and experienced in software development, they must be skilled in many different coding languages and need to be able to develop, contribute and collaborate well. This position appeals to me as I strive to challenge myself constantly, it would allow me to use technology that I seldom ever touch.  
+
+This position requires the applicant to have the following skills, qualifications, and experience:
+* 5+ years of software development experience
+* General knowledge of Vue/React/Javascript
+* General knowledge of Django/Python
+* General knowledge of Restful API & Websockets
+* General knowledge of Unity/C#  
+
+I currently possess these requirements, 4+ years of software development experience, and General knowledge of Javascript, Python, Unity, and C#.  
+
+The plan is to continue to develop games/applications to build up more experience, take short courses for the code languages, Django/Vue/React and learn how to use Restful API and Websockets, taking short courses and asking fellow developers for advice.
 
 ## Personal Profile (Test Results) -
 
