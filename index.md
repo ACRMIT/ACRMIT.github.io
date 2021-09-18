@@ -40,6 +40,10 @@ The plan is to continue to develop games/applications to build up more experienc
 
 ## Personal Profile (Test Results) -
 **16personalities:**  
-<img src="/Images/16personalities.png" class="img-responsive" alt="" style="max-width: 75;">
+<img src="/Images/16personalities.png" class="img-responsive" alt="" style="max-width: 75;">  
+**personalitymax:**  
+<img src="/Images/PersonalityMax.PNG" class="img-responsive" alt="" style="max-width: 75;">  
+**mindtools(creativity test):**  
+<img src="/Images/MindTools.png" class="img-responsive" alt="" style="max-width: 75;">  
 ## Project Idea -
 
