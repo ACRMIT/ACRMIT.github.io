@@ -1,5 +1,6 @@
 # My Profile!
 Welcome to my profile, here you will learn a bit about who I am, why I'm interested in IT, what type of job I would like, see a few test results, and my chosen project idea.
+
 ## Personal Information -
 > The internet can be a place that harms a user more than it can benefit them.
 
@@ -12,6 +13,8 @@ I love experimenting with C# and Unity Engine!
 <img src="/Images/Me.jpg" class="img-responsive" alt="" style="max-width: 45%;">
 
 ## Interest in IT -
+My interest in IT is to develop an application that will provide a smile to the user's face, my interest in IT started when my father introduced me to a game called Diablo 2 when I was age 5, ever since I was hooked on using IT to just about do everything but mainly using it for its automated capabilities. I learned how to make use of macros, program applications, and automate calculations.  
+
 
 ## Ideal Job -
 
