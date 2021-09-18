@@ -39,6 +39,7 @@ I currently possess these requirements, 4+ years of software development experie
 The plan is to continue to develop games/applications to build up more experience, take short courses for the code languages, Django/Vue/React and learn how to use Restful API and Websockets, taking short courses and asking fellow developers for advice.
 
 ## Personal Profile (Test Results) -
-
+**16personalities:**  
+<img src="/Images/16personalities.png" class="img-responsive" alt="" style="max-width: 75;">
 ## Project Idea -
 
