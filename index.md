@@ -5,15 +5,15 @@ Welcome to my profile, here you will learn a bit about who I am, why I'm interes
 > The internet can be a place that harms a user more than it can benefit them.
 
 My Name is Abdul-Kadir Coskun,  
-I was given the student number S3558983,  
+I was obtained the student number S3558983,  
 A student email S3558983@student.rmit.edu.au,  
-A little bit about me is that I speak two languages English and Turkish at home, that I work in the security industry, and develop games in my free time(currently working on a roguelike called Elich).  
+A bit about me is that I speak two languages English and Turkish, that I work in the security industry, and develop games in my free time(currently working on a roguelike called Elich).  
 I love experimenting with C# and Unity Engine!
 
 <img src="/Images/Me.jpg" class="img-responsive" alt="" style="max-width: 65%;">
 
 ## Interest in IT
-My interest in IT is to develop an application that will provide a smile to the user's face, my interest in IT started when my father introduced me to a game called Diablo 2 when I was age 5, ever since I was hooked on using IT to just about do everything but mainly using it for its automated capabilities. I learned how to make use of macros, program applications, and automate calculations.  
+My interest in IT is to develop an application that will provide a smile to the user's face as my interest in IT started when my father introduced me to a game called Diablo 2 when I was age 5, ever since I was hooked on using IT to do just about everything but mainly using it for its automated capabilities. I learned how to make use of macros, program applications, and automate calculations.  
 
 I chose RMIT mainly for the brand as it's a globally recognized university that's renowned for its leadership and innovation in technology, design, and enterprise. I found that students that have attended RMIT speak nothing but praises for it.  
 
@@ -45,5 +45,12 @@ The plan is to continue to develop games/applications to build up more experienc
 <img src="/Images/PersonalityMax.PNG" class="img-responsive" alt="" style="max-width: 75;">  
 **mindtools(creativity test):**  
 <img src="/Images/MindTools.png" class="img-responsive" alt="" style="max-width: 75;">  
+
+These results tell me that I can be imaginative and open-minded to many things that I find as I tend to enjoy a sense of adventure and don't mind experiencing setbacks. But I found that they could also mean that I can be unfocused at times as my imagination can be one step ahead of my progress, causing me to be disorganized.  
+
+I don't know how well these results might affect my behaviour within a team, as I believe that as long as I keep a key focus on a goal set out by the team and work towards it. I will be able to overcome the self-conscience emotions that may develop as a result of these results.  
+
+I will take into consideration the most positive aspects of these results and try to limit the negative ones, only this way I believe, I can put my all when forming a team with others.
+
 ## Project Idea
 
