@@ -60,11 +60,11 @@ The choice of using a parallax background is to allow the player to see that the
 There will be a strong focus on a hands-off approach causing the game to be rather like watching a movie allowing the player to focus on just immersing themselves within the story.  
 The design of this game will focus on simplicity, allowing for only a menu scene to lay the foundation of getting a player prepared with a small selection of buttons within the UI (User Interface). Its background will be of a mountainous terrain within which lies a lake, slow muffled piano music that emulates sorrow will be played throughout along with the muffled sound of light rain. Upon pressing the play button, the scene will fade slowly into the game scene, causing the slow piano music and light rain to no longer be muffled. The protagonist of the story will come into view walking forward, upon the completion of the narration, the protagonist and parallax background will come to a stop with their lost love’s tombstone coming into view. The game scene will then fade slowly to black, ending the sound of the music and light rain sounds, displaying credits and a different soundtrack symbolising the end of the game.  
 The tools and technologies required for such an undertaking would require a computer with the latest operating system such as Windows 10 to deal with compatibility issues. Furthermore, as there is a key focus in reaching a large audience, the Unity Engine will be used to assist with this as it is developed to produce games that can be played across a large range of devices. Visual Studio Code will be the IDE (Integrated development environment) of choice because of its compatibility and diverse extensions that would allow faster commits to Github for version control, which will provide safe backups.  
-The skills required to bring this project idea to life would be the following:
-•	General knowledge of C#
-•	General knowledge of the Unity Engine
-•	The ability to Google efficiently
-•	Creative design 
+The skills required to bring this project idea to life would be the following:  
+•	General knowledge of C#  
+•	General knowledge of the Unity Engine  
+•	The ability to Google efficiently  
+•	Creative design  
 These skills are required as it is a requirement to use C# when using Unity Engine classes such as MonoBehaviour. Being able to google efficiently allows for faster troubleshooting or generally finding a better implementation of code. Creative design is also a requirement as we are attempting to build connections via good visuals and sound.  
 If this project idea provides the intended effects to induce crying, I believe that it would a valid contribution in providing a somewhat effective means of combating depression and anxiety. But at the same time, it wouldn’t be a considered solution to the main problem but more of an outlet, effectively allowing one to destress. As long as one person gains some benefit from this project, I would consider it rather successful for it served its intended purpose.
 
