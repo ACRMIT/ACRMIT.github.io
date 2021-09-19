@@ -4,7 +4,7 @@ Welcome to my profile, here you will learn a bit about who I am, why I'm interes
 ## Personal Information
 > The internet can be a place that harms a user more than it can benefit them.
 
-My Name is Abdul-Kadir Coskun,  
+My name is Abdul-Kadir Coskun,  
 I was obtained the student number S3558983,  
 A student email S3558983@student.rmit.edu.au,  
 A bit about me is that I speak two languages English and Turkish, that I work in the security industry, and develop games in my free time(currently working on a roguelike called Elich).  
